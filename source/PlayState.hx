@@ -6,7 +6,7 @@ import flixel.util.FlxColor;
 import flixel.addons.display.shapes.FlxShapeCross;
 import flixel.util.FlxSpriteUtil;
 import flixel.util.FlxMath;
-using flixel.util.FlxAngle;
+import flixel.util.FlxAngle;
 import flixel.util.FlxPoint;
 import flixel.util.FlxVelocity;
 import flixel.input.gamepad.FlxGamepad;
